@@ -1,0 +1,22 @@
+#   mateus' colorscheme
+#========================
+#   made by matissoss
+#   licensed under MIT
+
+[colors.primary]
+background = '#121212'
+foreground = '#C8C8CC'
+
+[colors.cursor]
+cursor = '#C8C8CC'
+text = '#121212'
+
+[colors.normal]
+black = '#121212'
+red = '#C75147'
+green = '#9BD85F'
+yellow = '#E3D050'
+blue='#94D3E6'
+magenta = '#B157D0'
+cyan = '#A8FECB'
+white = '#C8C8CC'
