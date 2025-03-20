@@ -61,6 +61,7 @@ This repo is central point for my colorscheme.
 
 - [neovim](nvim)
 - [alacritty](alacritty)
+- [wallpapers](https://github.com/Matissoss/mateus-wallpaper)
 
 # Contributing
 
