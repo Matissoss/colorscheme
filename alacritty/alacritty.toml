@@ -1,5 +1,5 @@
 #   mateus' colorscheme
-#========================
+#   -------------------
 #   made by matissoss
 #   licensed under MIT
 
@@ -11,12 +11,13 @@ foreground = '#C8C8CC'
 cursor = '#C8C8CC'
 text = '#121212'
 
+# Normal Colors
 [colors.normal]
-black = '#121212'
-red = '#C75147'
-green = '#9BD85F'
-yellow = '#E3D050'
-blue='#94D3E6'
+black 	= '#121212'
+red 	= '#C75147'
+green 	= '#9BD85F'
+yellow 	= '#D99E64'
+blue	= '#94D3E6'
 magenta = '#B157D0'
-cyan = '#A8FECB'
-white = '#C8C8CC'
+cyan 	= '#91FFE9'
+white 	= '#C8C8CC'
